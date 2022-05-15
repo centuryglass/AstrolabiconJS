@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="149.93967mm"
+   height="276.86438mm"
+   viewBox="0 0 149.93967 276.86438"
+   version="1.1"
+   id="svg217"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="al2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview219"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="242"
+     inkscape:cy="426"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs214">
+    <marker
+       style="overflow:visible"
+       id="DiamondL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path980" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1179"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondLstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.6,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1177" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondLstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondLstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.6,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path989" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path983" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path974" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.832153,-93.504774)">
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DiamondL);stop-color:#000000;stop-opacity:1"
+       d="m 86.188906,94.079162 c 0,0 -25.208809,7.611618 -27.610472,14.512638 -2.40166,6.90101 26.541181,19.14711 27.401487,17.94377"
+       id="UL"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#DiamondL);stop-color:#000000"
+       d="m 86.188911,198.93941 c 0,0 -25.208809,7.61162 -27.610472,14.51264 -2.40166,6.90101 26.541181,19.14711 27.401487,17.94377"
+       id="DL"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#DiamondL);stop-color:#000000"
+       d="m 88.079075,329.793 c -11.410693,0.12851 -22.752519,-1.9614 -34.936919,-5.10332 -9.713617,-4.98608 -19.296252,-6.25158 -30.233567,-18.99246 -2.64668,-7.03176 -10.507923,-13.17813 3.041043,-22.95976 10.232124,-5.05395 20.590484,-9.64927 31.732772,-11.3964 10.739807,-1.70292 20.40886,-3.30945 29.24248,-4.84079"
+       id="ML"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DiamondL);stop-color:#000000"
+       d="m 99.415055,267.64021 c 0,0 25.208815,-7.61162 27.610485,-14.51264 2.40166,-6.90101 -26.54119,-19.14712 -27.401495,-17.94378"
+       id="UR"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#DiamondL);stop-color:#000000"
+       d="m 99.415055,363.94861 c 0,0 25.208815,-7.61162 27.610485,-14.51264 2.40166,-6.90101 -26.54119,-19.14711 -27.401495,-17.94377"
+       id="DR"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#DiamondL);stop-color:#000000"
+       d="m 97.524895,132.16032 c 11.410695,-0.12851 22.752515,1.9614 34.936915,5.10332 9.71362,4.98608 19.29626,6.25158 30.23358,18.99246 2.64668,7.03176 10.50792,13.17813 -3.04105,22.95976 -10.23212,5.05395 -20.59049,9.64927 -31.73277,11.3964 -10.73981,1.70292 -20.40886,3.30945 -29.242485,4.84079"
+       id="MR"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>
